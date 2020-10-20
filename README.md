@@ -26,5 +26,5 @@
 [Decision Tree](https://github.com/atefajmal27/Signal_Model_Max/blob/main/Decisiontree.ipynb)
 
 
-## Google Slides that contain our findings
+## Google Slides that Contain our Findings:
 [PROJECT PRESENTATION](https://docs.google.com/presentation/d/1-wLxRTxpiBfXCzrqwb5FHxYnd9_RV8iUgp1WJgh6TBg/edit?usp=sharing)
