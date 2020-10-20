@@ -4,3 +4,15 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/62320593/96394137-432dc280-118f-11eb-80e1-32cc104453f2.gif" width="650" height="370"/>
 </p>
+
+## Project: ##
+### Combination of models to match the right features and their signals with the strategy for portfolio optimization to create the greatest chance to maximize return. ###
+
+Models: 
+[Random Forest](https://github.com/atefajmal27/Signal_Model_Max/blob/main/project2-random_forest.ipynb)
+[Neural Networks](https://github.com/atefajmal27/Signal_Model_Max/blob/main/neural_networks_model.ipynb)
+[MLP](https://github.com/atefajmal27/Signal_Model_Max/blob/main/MLP_Classifier.ipynb)
+[Decision Tree](https://github.com/atefajmal27/Signal_Model_Max/blob/main/Decisiontree.ipynb)
+[NLP Sentiment](https://github.com/atefajmal27/Signal_Model_Max/blob/main/Twitter_sentiment.ipynb)
+
+[PROJECT PRESENTATION](https://docs.google.com/presentation/d/1-wLxRTxpiBfXCzrqwb5FHxYnd9_RV8iUgp1WJgh6TBg/edit?usp=sharing)
